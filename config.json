@@ -1,0 +1,15 @@
+{
+    "title": "Photos Share Test 111",
+    "baseURL": "https:\/\/photos.sharetest111.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "sharetest111.com"
+    }
+}
